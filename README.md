@@ -35,6 +35,18 @@ Following is example of crontab.json:
     "m": "*",
     "nb_user": "dinhttrandrise",
     "nb_code": "gg-environment-controller-c"
+  },
+  {
+    "pseudo": "no",
+    "m": "10",
+    "nb_user": "dinhttrandrise",
+    "nb_code": "gg-environment-controller-c"
+  },
+  {
+    "pseudo": "no",
+    "h": "*",
+    "nb_user": "dinhttrandrise",
+    "nb_code": "gg-environment-controller-c"
   }
 ]
 ----------
